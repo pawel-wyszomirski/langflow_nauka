@@ -1,0 +1,4 @@
+requests>=2.31.0
+langflow>=0.6.3  # Opcjonalne, ale zalecane dla pełnej funkcjonalności
+typing>=3.7.4.3
+argparse>=1.4.0
